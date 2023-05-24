@@ -1,0 +1,33 @@
+.heading
+{
+    text-align: center;
+    text-decoration-color: red;
+    font-family: cursive;
+    text-underline-position: below;
+}
+
+#dora
+{
+    height: 250px;
+    width: 250px;
+}
+
+#nobi
+{
+    height: 300px;
+    width: 500px;
+}
+
+#dora_friends
+{
+    height: 500px;
+    width: 500px;
+    
+}
+
+#dora_sis
+{
+    height: 500px;
+    width: 500px;
+    
+}
